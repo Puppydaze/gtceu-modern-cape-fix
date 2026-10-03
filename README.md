@@ -1,6 +1,6 @@
 # GTCEu: Modern Cape Fix
 
-EVERYONE HERE IS GENERATED WITH CLAUDE AI. I, PUPPYDAZE, TAKE NO CREDIT FOR ANY OF THE CODE OR TEXT WRITTEN IN THIS REPO.
+EVERYTHING HERE IS GENERATED WITH CLAUDE AI. I, PUPPYDAZE, TAKE NO CREDIT FOR ANY OF THE CODE OR TEXT WRITTEN IN THIS REPO.
 
 A small client-side Forge mod for Minecraft 1.20.1 that stops Mojang capes from disappearing when
 [GregTech CEu Modern](https://github.com/GregTechCEu/GregTech-Modern) is installed
