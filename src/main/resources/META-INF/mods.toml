@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL="https://github.com/GregTechCEu/GregTech-Modern/issues/3866"
+
+[[mods]]
+modId="gtcapefix"
+version="${version}"
+displayName="GTCEu: Modern Cape Fix"
+# Client-only cosmetic fix: servers and other clients don't need it.
+displayTest="IGNORE_ALL_VERSION"
+description='''
+Fixes Mojang capes disappearing with GregTech CEu Modern when the player is drawn before the cape finishes downloading (GregTech-Modern issue #3866).
+'''
+
+[[dependencies.gtcapefix]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.gtcapefix]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="CLIENT"
